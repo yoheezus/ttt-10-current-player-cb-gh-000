@@ -4,4 +4,5 @@ def turn_count(board)
         if item != " " || item != ""
             count += 1
         end
+    end
 end
